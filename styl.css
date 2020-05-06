@@ -1,0 +1,31 @@
+#menu{
+      background-color:black;
+      height:120px;
+      text-align:center;
+}
+#text{
+      height:150px;
+      font-size:20px;
+      color:red;
+      background-color:rgb(39, 37, 37);
+      text-align:left;
+      padding:2px;
+}
+#stopka{
+      height:50px;
+      color:yellow;
+      font-size:25px;
+      background-color: rgba(5, 3, 3, 0.705);
+      text-align:center;
+}
+#obrazek{
+      height:400px;
+      background-color: rgba(10, 0, 0, 0.712);
+}
+a{
+  font-size:30px;
+  padding:40px;
+  text-decoration: none;
+  color:yellow;
+  border:2px solid yellow;  
+}
